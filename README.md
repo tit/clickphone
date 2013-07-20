@@ -1,4 +1,6 @@
-clickphone
+clickPhone
 ==========
 
-Set clickable phone number
+Use:
+====
+Insert phone number in to <span id="clickPhone"> tag and include clickphone.js file.
